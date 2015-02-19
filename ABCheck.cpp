@@ -5,7 +5,8 @@ the characters a and b are separated by exactly 3 places anywhere in the string 
 Otherwise return the string false. 
 */
 
-// My name is David
+// My name is David Meyer
+// 
 
 #include <iostream>
 using namespace std;
