@@ -5,6 +5,8 @@ the characters a and b are separated by exactly 3 places anywhere in the string 
 Otherwise return the string false. 
 */
 
+// Code by David Dick Meyer
+
 #include <iostream>
 using namespace std;
 
