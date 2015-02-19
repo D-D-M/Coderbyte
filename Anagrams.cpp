@@ -2,6 +2,8 @@
 #include <string>
 #include <algorithm>
 
+// File created by David Dick Meyer
+
 using namespace std;
 
 bool checkAnagram(string a, string b) {
