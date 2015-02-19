@@ -4,6 +4,8 @@ with the letters in alphabetical order (ie. hello becomes ehllo). Assume numbers
 will not be included in the string. 
 */
 
+// My name is Jonas
+
 #include <iostream>
 using namespace std;
 
